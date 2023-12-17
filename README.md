@@ -4,7 +4,7 @@ Welcome to the Python and Blockchain Tutorial Series! This educational series is
 
 ## About the Course
 
-This tutorial series, originally part of a Fintech course at CPCE PolyU, is now open for all. It uniquely combines Python programming with an introduction to the principles of blockchain. The use of Jupyter Notebooks makes it easier to follow along with the code and experiment in a live coding environment.
+This tutorial series, originally part of my Fintech course, is now open for all. It uniquely combines Python programming with an introduction to the principles of blockchain. The use of Jupyter Notebooks makes it easier to follow along with the code and experiment in a live coding environment.
 
 ## Tutorial Outline
 
